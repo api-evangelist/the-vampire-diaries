@@ -1,0 +1,32 @@
+aid: the-vampire-diaries
+name: The Vampire Diaries
+description: "TV Show Data"
+url: https://vampire-diaries-api.netlify.app/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: The Vampire Diaries
+    description: "TV Show Data"
+    humanURL: https://vampire-diaries-api.netlify.app/
+    baseURL: https://vampire-diaries-api.netlify.app/
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://vampire-diaries-api.netlify.app/
+common:
+  - type: Website
+    url: https://vampire-diaries-api.netlify.app/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

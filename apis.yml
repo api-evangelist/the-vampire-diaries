@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://vampire-diaries-api.netlify.app/
 common:
+  - type: TrustCenter
+    url: security/the-vampire-diaries-trust-center.yml
+  - type: DomainSecurity
+    url: security/the-vampire-diaries-domain-security.yml
   - type: Website
     url: https://vampire-diaries-api.netlify.app/
   - type: PublicAPIsListing
